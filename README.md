@@ -1,6 +1,6 @@
 <h2 align='center'>About me</h2>
 <p align='center'>
-ENG | ESP - From Colombia - 🎂 28/08 (15yo) 
+ENG | ESP - From Colombia - 🎂 <t:1661662800:R> (15yo) 
 </br>💻 GameTest developer.
 </br>💀 HyperCore founder.
 </p>
