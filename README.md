@@ -1,10 +1,10 @@
 <h2 align='center'>About me</h2>
 <p align='center'>
-ENG | ESP - From Colombia - 🎂 28/08 (15yo) 
+ENG | ESP - From Colombia - 🎂 28/08 (15yo)
 </br>💻 GameTest developer.
-</br>💀 HyperCore founder.
+</br><a href='https://twitter.com/HyperCoreSMP'>💀 HyperCore founder.</a>
+</br><a href='https://twitter.com/CibNumeritos'>💎 Eternetic studios founder.</a>
 </p>
-
 <!--
 **CibNumeritos/CibNumeritos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
