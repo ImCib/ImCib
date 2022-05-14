@@ -1,4 +1,9 @@
-<h2 align='center'>grasoso :v</h2>
+<h2 align='center'>About me</h2>
+### 🇪🇸 | 🇺🇸 - From 🇨🇴 - 🎂 en 3 meses (15yo)
+💻 GameTest developer.
+⚙ JS, TS, Java & C# (Unity).
+:hcr: HyperCore founder.
+pfp by: @LouisDoodles_
 
 <!--
 **CibNumeritos/CibNumeritos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
