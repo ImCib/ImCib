@@ -4,7 +4,9 @@ Hi 👋 My name is CibNumeritos
 Minecraft Bedrock addon creator, GameTest & BDSX plugin programmer
 ------------------------------------------------------------------
 
-🇺🇸 | 🇪🇸 • from Colombia 15 • years old • I've been learning JavaScript for at least 1-2 years, I'm learning Python and Web Developing. Abyssal Agony founder HyperCube Studios founder JS/TS, Java, C# & Python
+🇺🇸 | 🇪🇸 • from Colombia
+• 15 years old 
+• I've been learning JavaScript for at least 1-2 years, I'm learning Python and Web Developing. Abyssal Agony founder HyperCube Studios founder JS/TS, Java, C# & Python
 
 * 🌍  I'm based in Bogotá
 * 🖥️  See my portfolio at [Coming soon](http://Soonxddd.xxx)
@@ -55,4 +57,4 @@ src="https://img.shields.io/twitch/status/CibNumeritos?logo=twitchsx&style=for-t
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/Comingsoon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/CibNumeritos"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
