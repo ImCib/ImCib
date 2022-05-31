@@ -1,4 +1,4 @@
-Hi 👋 My name is CibNumeritos
+Hi! I'm CibNumeritos
 =============================
 
 Minecraft Bedrock addon creator, GameTest & BDSX plugin programmer
