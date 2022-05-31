@@ -5,8 +5,10 @@ Minecraft Bedrock addon creator, GameTest & BDSX plugin programmer
 ------------------------------------------------------------------
 
 🇺🇸 | 🇪🇸 • from Colombia
-• 15 years old 
-• I've been learning JavaScript for at least 1-2 years, I'm learning Python and Web Developing. Abyssal Agony founder HyperCube Studios founder JS/TS, Java, C# & Python
+*  15 years old 
+*  I've been learning JavaScript for at least 1-2 years, I'm learning Python and Web Developing. 
+* Abyssal Agony founder 
+* HyperCube Studios founder
 
 * 🌍  I'm based in Bogotá
 * 🖥️  See my portfolio at [Coming soon](http://Soonxddd.xxx)
