@@ -5,6 +5,7 @@ Minecraft bedrock dev (gametest) and BDSX beginer
 ------------------------------------------------------------------
 
 ENG/ESP • from Colombia!
+
 ◈ 16 years old (🎂28/08)
 
 ◈ I've been learning JavaScript for at least 1-2 years, I'm learning Python and Web Developing. 
@@ -13,9 +14,13 @@ ENG/ESP • from Colombia!
 
 
 ◈ See my portfolio at [Coming soon](http://Soonxddd.xxx)
+
 ◈ You can contact me at [imcib2498.212244.2808@gmail.com](mailto:imcib2498.212244.2808@gmail.com)
+
 ◈ I'm currently working on Multi Player Sleep Add-On (http://github.com/CibNumeritos/MultiPlayerSleep-addon)
+
 ◈ I'm learning Python and Java (Bukkit plugin developement)
+
 
 <a href="https://www.twitter.com/CibNumeritos" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CibNumeritos?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
