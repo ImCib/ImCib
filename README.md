@@ -4,7 +4,7 @@ Hi! I'm CibNumeritos, call me Cib ^^
 Minecraft bedrock dev (gametest) and BDSX beginer 
 ------------------------------------------------------------------
 
-🇺🇸 | 🇪🇸 • from Colombia
+ENG/ESP • from Colombia!
 ◈ 16 years old (🎂28/08)
 ◈ I've been learning JavaScript for at least 1-2 years, I'm learning Python and Web Developing. 
 ◈ Abyssal Agony and Teseract Studios founder
