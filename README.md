@@ -1,7 +1,7 @@
 Hi! I'm CibNumeritos, call me Cib ^^
 =============================
 
-Minecraft bedrock dev (gametest) and BDSX beginer 
+Minecraft bedrock dev (gametest) and BDSX beginner 
 ------------------------------------------------------------------
 
 ENG/ESP • from Colombia!
@@ -17,7 +17,7 @@ ENG/ESP • from Colombia!
 
 ◈ You can contact me at [imcib2498.212244.2808@gmail.com](mailto:imcib2498.212244.2808@gmail.com)
 
-◈ I'm currently working on Multi Player Sleep Add-On (http://github.com/CibNumeritos/MultiPlayerSleep-addon)
+◈ I'm currently working on Multi Player Sleep Add-On (http://github.com/CibNumeritos/MultiPlayerSleep-addon) and Teseract Wrapper (http://github.com/TeseractNetwork/Teseract-Wrapper)
 
 ◈ I'm learning Python and Java (Bukkit plugin developement)
 
