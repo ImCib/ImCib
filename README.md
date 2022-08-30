@@ -1,19 +1,18 @@
-Hi! I'm CibNumeritos
+Hi! I'm CibNumeritos, call me Cib ^^
 =============================
 
-Minecraft Bedrock addon creator, GameTest & BDSX plugin developer
+Minecraft bedrock dev (gametest) and BDSX beginer 
 ------------------------------------------------------------------
 
 🇺🇸 | 🇪🇸 • from Colombia
-*  15 years old 
-*  I've been learning JavaScript for at least 1-2 years, I'm learning Python and Web Developing. 
-* Abyssal Agony founder 
-* Teseract Studios MCA founder
+◈ 16 years old (🎂28/08)
+◈ I've been learning JavaScript for at least 1-2 years, I'm learning Python and Web Developing. 
+◈ Abyssal Agony and Teseract Studios founder
 
-* 🖥️  See my portfolio at [Coming soon](http://Soonxddd.xxx)
-* ✉️  You can contact me at [imcib2498.212244.2808@gmail.com](mailto:imcib2498.212244.2808@gmail.com)
-* 🚀  I'm currently working on [Ultimate One Player Sleep](http://github.com/CibNumeritos/Ultimate-OnePlayerSleep)
-* 🧠  I'm learning Python and Java (Bukkit plugin developement)
+◈ See my portfolio at [Coming soon](http://Soonxddd.xxx)
+◈ You can contact me at [imcib2498.212244.2808@gmail.com](mailto:imcib2498.212244.2808@gmail.com)
+◈ I'm currently working on Multi Player Sleep Add-On (http://github.com/CibNumeritos/MultiPlayerSleep-addon)
+◈ I'm learning Python and Java (Bukkit plugin developement)
 
 <a href="https://www.twitter.com/CibNumeritos" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CibNumeritos?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
