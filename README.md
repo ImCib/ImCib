@@ -6,8 +6,11 @@ Minecraft bedrock dev (gametest) and BDSX beginer
 
 ENG/ESP • from Colombia!
 ◈ 16 years old (🎂28/08)
+
 ◈ I've been learning JavaScript for at least 1-2 years, I'm learning Python and Web Developing. 
+
 ◈ Abyssal Agony and Teseract Studios founder
+
 
 ◈ See my portfolio at [Coming soon](http://Soonxddd.xxx)
 ◈ You can contact me at [imcib2498.212244.2808@gmail.com](mailto:imcib2498.212244.2808@gmail.com)
