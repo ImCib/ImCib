@@ -1,24 +1,23 @@
-Hi! I'm CibNumeritos, call me Cib ^^
+
+Hola! Soy CibNumeritos, llamame Cib
 =============================
 
-Minecraft bedrock dev (gametest) and BDSX beginner 
+Desarrollador de addons para bedrock y de plugins para <a href="https://github.com/bdsx/bdsx" target="_blank" rel="noreferrer">BDSX</a>!
 ------------------------------------------------------------------
 
-ENG/ESP • from Colombia!
+ENG/ESP • de Colombia!
 
-◈ I've been learning JavaScript for at least 1-2 years, I'm learning Python and Web Developing. 
+◈ El lenguaje de programación que mas suelo usar es <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a>
+JavaScript, pero personalmente prefiero usar TypeScript.
 
-◈ Abyssal Agony and Teseract Studios founder
 
+◈ Fundador de [Abyssal Agony](https://twitter.com/AbyssalSMP) y creador de addons para [El huerto de Sandía](https://discord.gg/perrosandia)!
 
-◈ See my portfolio at [Coming soon](http://Soonxddd.xxx)
+◈ Puedes contactarme en [imcib2498.212244.2808@gmail.com](mailto:imcib2498.212244.2808@gmail.com) o en [Discord](https://discordapp.com/users/958484383566794752)
 
-◈ You can contact me at [imcib2498.212244.2808@gmail.com](mailto:imcib2498.212244.2808@gmail.com)
+◈ Actualmente estoy trabajando en el addon [MultiPlayerSleep](http://github.com/CibNumeritos/MultiPlayerSleep-addon) y para proyectos del [El huerto de Sandía](https://discord.gg/perrosandia)!
 
-◈ I'm currently working on Multi Player Sleep Add-On (http://github.com/CibNumeritos/MultiPlayerSleep-addon) and Teseract Wrapper (http://github.com/TeseractNetwork/Teseract-Wrapper)
-
-◈ I'm learning Python and Java (Bukkit plugin developement)
-
+◈ Estoy enfocandome en aprender [Python](https://www.python.org/)
 
 <a href="https://www.twitter.com/CibNumeritos" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CibNumeritos?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -26,26 +25,13 @@ src="https://img.shields.io/twitter/follow/CibNumeritos?logo=twitter&style=for-t
 src="https://img.shields.io/github/followers/CibNumeritos?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/CibNumeritos" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/CibNumeritos?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
-
-
-### Socials
+### Mis redes sociales (y plataformas donde volvere a subir videos!)
 
 <p align="left"> <a href="https://www.codepen.io/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/CibNumeritos#1094" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sebas_.sandoval" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Insignias
 
-<b>My GitHub Stats</b>
+<b>Mis estadísticas de GitHub</b>
 
 <a href="http://www.github.com/CibNumeritos"><img src="https://github-readme-stats.vercel.app/api?username=CibNumeritos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CibNumeritos's GitHub stats" /></a>
 
@@ -55,9 +41,15 @@ src="https://img.shields.io/twitch/status/CibNumeritos?logo=twitchsx&style=for-t
 
 <a href="https://github.com/CibNumeritos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CibNumeritos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<b>Repositorios principales</b>
+<div width="100%" align="center"><a href="https://github.com/CibNumeritos/MultiPlayerSleep-addon" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CibNumeritos&repo=Fast-totem-addon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<div width="100%" align="center"><a href="https://github.com/CibNumeritos/MultiPlayerSleep-addon" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CibNumeritos&repo=Ultimate-OnePlayerSleep&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/CibNumeritos/MultiPlayerSleep-addon" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CibNumeritos&repo=Java-bow-ding-sound&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/CibNumeritos/MultiPlayerSleep-addon" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CibNumeritos&repo=Ultimate-OnePlayerSleep&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+
 
 ### Support Me
 
