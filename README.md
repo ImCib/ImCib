@@ -7,8 +7,7 @@ Desarrollador de addons para bedrock y de plugins para <a href="https://github.c
 
 ENG/ESP • de Colombia!
 
-◈ El lenguaje de programación que mas suelo usar es <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a>
-JavaScript, pero personalmente prefiero usar TypeScript.
+◈ El lenguaje de programación que mas suelo usar es [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), pero personalmente prefiero usar TypeScript.
 
 
 ◈ Fundador de [Abyssal Agony](https://twitter.com/AbyssalSMP) y creador de addons para [El huerto de Sandía](https://discord.gg/perrosandia)!
