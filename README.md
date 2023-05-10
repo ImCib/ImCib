@@ -10,21 +10,15 @@ ENG/ESP • de Colombia!
 ◈ El lenguaje de programación que mas suelo usar es [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), pero personalmente prefiero usar TypeScript.
 
 
-◈ Fundador de [Abyssal Agony](https://twitter.com/AbyssalSMP) y creador de addons para [El huerto de Sandía](https://discord.gg/perrosandia)!
+◈ Fundador de [Abyssal Agony](https://twitter.com/AbyssalSMP)
 
-◈ Puedes contactarme en [imcib2498.212244.2808@gmail.com](mailto:imcib2498.212244.2808@gmail.com) o en [Discord](https://discordapp.com/users/958484383566794752)
+◈ Aprendiendo [Python](https://www.python.org/)
 
-◈ Actualmente estoy trabajando en el addon [MultiPlayerSleep](http://github.com/CibNumeritos/MultiPlayerSleep-addon) y para proyectos del [El huerto de Sandía](https://discord.gg/perrosandia)!
-
-◈ Estoy enfocandome en aprender [Python](https://www.python.org/)
-
-<a href="https://www.twitter.com/CibNumeritos" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/CibNumeritos?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/CibNumeritos" target="_blank" rel="noreferrer"><img
+</a><a href="https://www.github.com/CibNumeritos" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/CibNumeritos?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/CibNumeritos" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/CibNumeritos?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Mis redes sociales (y plataformas donde volvere a subir videos!)
+### Mis redes sociale
 
 <p align="left"> <a href="https://www.codepen.io/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/CibNumeritos#1094" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sebas_.sandoval" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/CibNumeritos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
