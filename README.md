@@ -2,7 +2,7 @@
 Hola! Soy CibNumeritos, llamame Cib
 =============================
 
-Desarrollador de addons para bedrock y de plugins para <a href="https://github.com/bdsx/bdsx" target="_blank" rel="noreferrer">BDSX</a>!
+Desarrollador de addons y de plugins para <a href="https://github.com/bdsx/bdsx" target="_blank" rel="noreferrer">BDSX</a>!
 ------------------------------------------------------------------
 
 ENG/ESP • de Colombia!
@@ -10,7 +10,7 @@ ENG/ESP • de Colombia!
 ◈ El lenguaje de programación que mas suelo usar es [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), pero personalmente prefiero usar TypeScript.
 
 
-◈ Fundador de [Abyssal Agony](https://twitter.com/AbyssalSMP)
+◈ Creador de [Abyssal Agony](https://twitter.com/AbyssalSMP), a ver cuando lo termino de programar xd
 
 ◈ Aprendiendo [Python](https://www.python.org/)
 
